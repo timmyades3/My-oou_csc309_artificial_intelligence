@@ -77,4 +77,12 @@ Notebook: `notebooks/CSC309_Week7_PH_Student_Centred.ipynb`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week08_NLP2_Sentiment_Spelling_MT_Student_Centred.ipynb)
 
+## Week 9 - Expert Systems 
+
+Notebook: `notebooks/CSC309_Week7_PH_Student_Centred.ipynb` 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week09_Expert_Systems_Student_Centred.ipynb)
+
 This repository contains AI practical notebooks for CSC 309.
