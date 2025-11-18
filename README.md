@@ -44,10 +44,19 @@ https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial
 
 ## Week 5 - Knowledge Representation and Reasoning
 
-Notebook: `notebooks/CSC309_Week4_PH_Student_Centred.ipynb` 
+Notebook: `notebooks/CSC309_Week5_PH_Student_Centred.ipynb` 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week05_KRR_Logic_Student_Centred.ipynb)
+
+
+## Week 6 - Semantic Networks and Frames
+
+Notebook: `notebooks/CSC309_Week6_PH_Student_Centred.ipynb` 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week06_Semantic_Networks_Frames_Student_Centred.ipynb)
 
 This repository contains AI practical notebooks for CSC 309.
