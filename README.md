@@ -2,7 +2,7 @@
 
 Lecture note, Practical notebooks and mini-projects for CSC309 - Artificial_Intelligence
 
-### DTS 201 Lecture Note (Google Docs)
+### CSC 309 Lecture Note (Google Docs)
 
 
 🧪 Practical Notebooks
